@@ -31,7 +31,7 @@ My goal was to make this project possible for anyone to complete, no matter your
 
 ## Instructions
 
-### Instalation Steps
+### Installation Steps
 
 1. Install the [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
 2. Download the [Reflect-OS Firmware](https://reflect-os.github.io/) and use the Raspberry Pi Imager to flash the firmware onto your Micro SD Card
